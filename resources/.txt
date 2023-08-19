@@ -1,0 +1,6 @@
+Data Sets, Papers and Links
+  1. The complete Sanskrit text of Bhagavad-gītā in devanāgarī and latin script - https://www.kaggle.com/datasets/taruntiwarihp/bhagavad-gita
+  2. Creation of a Digital Rig Vedic Index (Anukramani) for Computational Linguistic Tasks - https://aclanthology.org/2023.wsc-csdh.6.pdf
+  3. Itihāsa is a Sanskrit-English translation corpus containing 93,000 Sanskrit shlokas and their English translations - https://github.com/rahular/itihasa
+  4. Itihasa: A large-scale corpus for Sanskrit to English translation - https://aclanthology.org/2021.wat-1.22/
+
