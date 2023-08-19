@@ -3,4 +3,5 @@ Data Sets, Papers and Links
   2. Creation of a Digital Rig Vedic Index (Anukramani) for Computational Linguistic Tasks - https://aclanthology.org/2023.wsc-csdh.6.pdf
   3. Itihāsa is a Sanskrit-English translation corpus containing 93,000 Sanskrit shlokas and their English translations - https://github.com/rahular/itihasa
   4. Itihasa: A large-scale corpus for Sanskrit to English translation - https://aclanthology.org/2021.wat-1.22/
+  5. Handwritten Vedic Sanskrit Text Recognition Using Deep Learning - https://publishoa.com/index.php/journal/article/view/863/743
 
