@@ -4,4 +4,4 @@ Data Sets, Papers and Links
   3. Itihāsa is a Sanskrit-English translation corpus containing 93,000 Sanskrit shlokas and their English translations - https://github.com/rahular/itihasa
   4. Itihasa: A large-scale corpus for Sanskrit to English translation - https://aclanthology.org/2021.wat-1.22/
   5. Handwritten Vedic Sanskrit Text Recognition Using Deep Learning - https://publishoa.com/index.php/journal/article/view/863/743
-
+  6. IndicMT Eval: A Dataset to Meta-Evaluate Machine Translation Metrics for Indian Languages - https://aclanthology.org/2023.acl-long.795/
