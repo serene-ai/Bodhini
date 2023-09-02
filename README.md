@@ -29,4 +29,4 @@ Bodhini is an ambitious endeavor that combines the power of natural language pro
 
 ## Research
 
-- Currently in the ideation phase. Read and add as much literature and datasets as you can [here](https://github.com/serene-ai/Bodhini/blob/main/resources/.txt)
+- Currently in the ideation phase. Read and add as much literature and datasets as you can [here](https://github.com/serene-ai/Bodhini/tree/main/resources)
